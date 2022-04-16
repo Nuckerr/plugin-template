@@ -1,9 +1,9 @@
 # `spigot` branch information
 **The following is specific information to this branch:**
 
-This project utilises the paperweight-userdev plugin for gradle to build the version of your version's jar. This
-build will include the bukkit, spigot and paper APIs as well as NMS. Please note that first build times might
-be longer than expected however everything is cached.
+This project utilises the [nms repo](https://repo.codemc.io/#browse/browse:nms) to obtain builds of spigot that
+include NMS as well as the API. This build will include the bukkit, spigot and paper APIs as well as NMS.
+Please note that first build times might  be longer than expected however everything is cached.
 
 ## Gradle commands
 ```
