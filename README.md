@@ -5,9 +5,8 @@ gradle and utilise the run-paper plugin and the bukkit plugin-yml plugin for gra
 It also has Simplix Storage pre-implemented for easy advanceed config files.
 
 ## Branches
-- paper - Regular paper project (>=1.17)
-- paper-legacy - For paper projects with legacy version (<=1.16.4)
-- spigot - Regular spigot project (All versions)
+- [paper](https://github.com/Nuckerr/plugin-template/tree/paper) - Regular paper project (>=1.17)
+- [spigot](https://github.com/Nuckerr/plugin-template/tree/spigot) - Regular spigot project (All versions)
 
 ## Setup
 1. Clone the desired branch for your project
