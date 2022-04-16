@@ -9,6 +9,7 @@ plugins {
 
 group = "wtf.nucker"
 version = "1.0"
+description = "Plugin description"
 
 repositories {
     mavenCentral()
