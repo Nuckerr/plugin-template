@@ -1,4 +1,4 @@
-package wtf.nucker.pluginName
+package wtf.nucker.pluginname
 
 import org.bukkit.plugin.java.JavaPlugin
 
