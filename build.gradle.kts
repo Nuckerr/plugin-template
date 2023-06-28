@@ -14,7 +14,7 @@ description = "Plugin description"
 
 repositories {
     mavenCentral()
-    maven(url = "https://jitpack.io")
+    maven("https://jitpack.io")
 }
 
 dependencies {
@@ -48,7 +48,7 @@ java {
 bukkit {
     load = BukkitPluginDescription.PluginLoadOrder.STARTUP
     main = "wtf.nucker.pluginname.PluginName"
-    apiVersion = "1.18"
+    apiVersion = "1.20"
 
     name = getName()
     description = getDescription()
